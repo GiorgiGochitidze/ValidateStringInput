@@ -1,0 +1,14 @@
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\bin\Debug\net9.0\ValidateStringInput.exe
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\bin\Debug\net9.0\ValidateStringInput.deps.json
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\bin\Debug\net9.0\ValidateStringInput.runtimeconfig.json
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\bin\Debug\net9.0\ValidateStringInput.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\bin\Debug\net9.0\ValidateStringInput.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\obj\Debug\net9.0\ValidateStringInput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\obj\Debug\net9.0\ValidateStringInput.AssemblyInfoInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\obj\Debug\net9.0\ValidateStringInput.AssemblyInfo.cs
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\obj\Debug\net9.0\ValidateStringInput.csproj.CoreCompileInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\obj\Debug\net9.0\ValidateStringInput.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\obj\Debug\net9.0\refint\ValidateStringInput.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\obj\Debug\net9.0\ValidateStringInput.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\obj\Debug\net9.0\ValidateStringInput.genruntimeconfig.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\ValidateStringInput\obj\Debug\net9.0\ref\ValidateStringInput.dll
